@@ -1,0 +1,12 @@
+2024/09/04 20:40:14 - Arithmetic App - DEBUG - Adding 15 and 6= 21
+2024/09/04 20:40:14 - Arithmetic App - DEBUG - Subtracting 15 and 6 = 9
+2024/09/04 20:40:14 - Arithmetic App - DEBUG - Multiplying 5 and 6 = 30
+2024/09/04 20:40:14 - Arithmetic App - DEBUG - Dividing 5 and 2= 2.5
+2024/09/04 20:42:34 - Arithmetic App - DEBUG - Adding 15 and 6= 21
+2024/09/04 20:42:34 - Arithmetic App - DEBUG - Subtracting 15 and 6 = 9
+2024/09/04 20:42:34 - Arithmetic App - DEBUG - Multiplying 5 and 6 = 30
+2024/09/04 20:42:34 - Arithmetic App - DEBUG - Dividing 5 and 2= 2.5
+2024/09/04 20:43:14 - Arithmetic App - DEBUG - Adding 15 and 6= 21
+2024/09/04 20:43:14 - Arithmetic App - DEBUG - Subtracting 15 and 6 = 9
+2024/09/04 20:43:14 - Arithmetic App - DEBUG - Multiplying 5 and 6 = 30
+2024/09/04 20:43:14 - Arithmetic App - ERROR - Division by zero is not allowed
